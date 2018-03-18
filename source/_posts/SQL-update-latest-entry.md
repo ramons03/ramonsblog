@@ -1,11 +1,11 @@
-title: SQL update latest entry
-author: Ramon Sanchez
-author_id: ramons
-language: en-US
-publisher: Ramon Sanchez
-date: 2017-08-16 19:06:08
-tags:
 ---
+title: SQL update latest entry
+tags:
+  - SQL
+categories: []
+date: 2017-08-16 19:06:08
+---
+
 Update rows according to an effective date. 
 
 ```sql

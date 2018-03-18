@@ -1,11 +1,11 @@
-title: Recursive Query SQL
-author: Ramon Sanchez
-author_id: ramons
-language: en-US
-publisher: Ramon Sanchez
-date: 2017-07-21 21:21:37
-tags:
 ---
+title: Recursive Query SQL
+tags:
+  - SQL
+categories: []
+date: 2017-07-21 21:21:37
+---
+
 ```sql
 WITH MyTest as
 (
