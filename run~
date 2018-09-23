@@ -1,0 +1,1 @@
+sudo forever start --uid blog --append -c 'hexo server -p 6000' ./2x2s
